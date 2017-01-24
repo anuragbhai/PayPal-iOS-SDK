@@ -123,7 +123,7 @@ curl 'https://api.paypal.com/v1/oauth2/token' \
 
 ### Retrieve Customer Information Using a Valid Access Token
 
-Use an access token as the value of the HTTP `Authorization` header to retrieve the ifnformation, e.g.
+Use an access token as the value of the HTTP `Authorization` header to retrieve the information, e.g.
 
 ```
 Authorization: Bearer YOUR_ACCESS_TOKEN
